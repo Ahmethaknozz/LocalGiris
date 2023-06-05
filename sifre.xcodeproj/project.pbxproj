@@ -16,6 +16,7 @@
 		BEB48891299FC3B000E0B50E /* sifreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB48890299FC3B000E0B50E /* sifreTests.swift */; };
 		BEB4889B299FC3B000E0B50E /* sifreUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB4889A299FC3B000E0B50E /* sifreUITests.swift */; };
 		BEB4889D299FC3B000E0B50E /* sifreUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB4889C299FC3B000E0B50E /* sifreUITestsLaunchTests.swift */; };
+		BEB488AA299FC4C100E0B50E /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB488A9299FC4C100E0B50E /* ViewController1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BEB48896299FC3B000E0B50E /* sifreUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sifreUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEB4889A299FC3B000E0B50E /* sifreUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sifreUITests.swift; sourceTree = "<group>"; };
 		BEB4889C299FC3B000E0B50E /* sifreUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sifreUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BEB488A9299FC4C100E0B50E /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				BEB48882299FC3B000E0B50E /* Assets.xcassets */,
 				BEB48884299FC3B000E0B50E /* LaunchScreen.storyboard */,
 				BEB48887299FC3B000E0B50E /* Info.plist */,
+				BEB488A9299FC4C100E0B50E /* ViewController1.swift */,
 			);
 			path = sifre;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BEB488AA299FC4C100E0B50E /* ViewController1.swift in Sources */,
 				BEB4887E299FC3AD00E0B50E /* ViewController.swift in Sources */,
 				BEB4887A299FC3AD00E0B50E /* AppDelegate.swift in Sources */,
 				BEB4887C299FC3AD00E0B50E /* SceneDelegate.swift in Sources */,
